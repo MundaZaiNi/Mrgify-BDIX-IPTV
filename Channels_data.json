@@ -11,8 +11,8 @@
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 244,
-    "last_update": "2025-11-17 08:35 AM (BD Time)"
+    "total_channels": 245,
+    "last_update": "2025-11-17 09:30 AM (BD Time)"
   },
   "channels": [
     {
@@ -1208,6 +1208,11 @@
     {
       "name": "KANTARA A LEGEND: CHAPTER 1",
       "url": "http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/South%20Indian%20(Hindi%20Dubbed)/Kantara%20Chapter%201%20(2025)%201080p%20WEBDL.mp4",
+      "source": "Unknown"
+    },
+    {
+      "name": "PT Sir",
+      "url": "http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/South%20Indian%20(Hindi%20Dubbed)/PT%20Sir%20(2024)%201080p%20WEBDL.mp4",
       "source": "Unknown"
     },
     {
