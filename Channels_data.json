@@ -5,14 +5,14 @@
     "generated_by": "IPTV HEXA PRO",
     "contact": "t.me/R1f4z",
     "support": "https://t.me/saeeidXrifaz",
-    "version": "v3.8",
+    "version": "v6.0",
     "github": "https://github.com/abusaeeidx",
     "note": "This playlist is for educational and testing purposes only. We do not host or stream any content. All streams are publicly available.",
     "disclaimer": "Use at your own risk. Developer is not responsible for any misuse.",
     "auto_update": true,
     "update_interval": "1 hours",
-    "total_channels": 249,
-    "last_update": "2025-11-17 04:59 PM (BD Time)"
+    "total_channels": 246,
+    "last_update": "2025-11-17 05:23 PM (BD Time)"
   },
   "channels": [
     {
@@ -1243,21 +1243,6 @@
     {
       "name": "T Sports HD 🇧🇩 📺 (2)",
       "url": "http://stvlive.net:8080/tsports1/index.m3u8",
-      "source": "Unknown"
-    },
-    {
-      "name": "T Sports HD (13)",
-      "url": "https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1763399808&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=0c49f5f07b6866858a4006a7c1bf3a26",
-      "source": "Unknown"
-    },
-    {
-      "name": "T Sports HD (15)",
-      "url": "https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1763400001&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=71475a1be94e33f2a3f043f045d8b1fd",
-      "source": "Unknown"
-    },
-    {
-      "name": "T Sports HD (14)",
-      "url": "https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1763399992&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=d2b451b73d3e2c7ef9ec8c687c0efe30",
       "source": "Unknown"
     }
   ]
