@@ -54,7 +54,7 @@ Premium + BDIX সব চ্যানেল স্মুথ চলুক —
 
 ### 📱 Android
 Recommended Apps 
-- OTT Navigaator (Best choice)
+- OTT Navigator (Best choice)
 - Televizo 
 - NS Player
 - IPTV Smarters
