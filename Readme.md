@@ -89,13 +89,19 @@ https://is.gd/mrgifytv
 | playlist.m3u | BDIX IPTV Playlist |
 
 ---
+
+
 ## 📌**Notice**  
 
 <h3 This project is specifically targeted for users in 
 **Bangladesh** 🇧🇩  
 Some channels may **only work within Bangladesh** due to regional restrictions 🌍🔐
   </h3>
+
+
 ---
+
+
 ## ⚠️ Legal Notice
 
 - This project hosts **NO STREAMING CONTENT**
@@ -105,6 +111,7 @@ Some channels may **only work within Bangladesh** due to regional restrictions �
 - Respect Content Owners ❤️
 
 ---
+
 ## 📲 Stay Connected
 
 📌 Telegram Channel:  
