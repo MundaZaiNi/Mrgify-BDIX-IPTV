@@ -1,4 +1,4 @@
-.  
+
 <!-- Logo -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/logo.png" alt="Mrgify-TV" width="200">
