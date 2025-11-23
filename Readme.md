@@ -6,7 +6,7 @@
 
 <h2 align="center">
   <br>
-  📺 Mrgify-TV  
+  Mrgify-TV  
   <br>
   BDIX IPTV Playlist
   <br>
