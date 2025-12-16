@@ -27,7 +27,12 @@
 **Mrgify-Tv** (মার্জিফাই-টিভি) is a **BDIX-based IPTV playlist project** that provides access to **Bangladeshi 🇧🇩 and international 🌐 live TV channels**.  
 
 The playlist includes a wide range of **sports 🏏, news 📰, movies 🎬, and entertainment 🎵 channels**, optimized for **BDIX users** for smooth streaming experience.
-
+## 📌**Web**
+<h2 align="center">
+  <br>
+https://iptvflixbd.github.io/mrgifytv
+  <br>
+</h2>
 ## 📌**Important Notice**  
 **📺 মার্জিফাই-টিভি — Best BDIX & Premium Channels Playlist**
 
