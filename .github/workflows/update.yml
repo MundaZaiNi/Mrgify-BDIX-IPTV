@@ -1,0 +1,30 @@
+name: Auto Update IPTV
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # har 30 minute
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run updater
+        run: |
+          pip install requests
+          python update_playlist.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name "auto-bot"
+          git config user.email "bot@github.com"
+          git add playlist.m3u
+          git commit -m "Auto update playlist" || exit 0
+          git push
